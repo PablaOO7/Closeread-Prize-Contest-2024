@@ -1,0 +1,4 @@
+# Ignore Quarto build artifacts
+/_site/
+/.quarto/
+/_extensions/

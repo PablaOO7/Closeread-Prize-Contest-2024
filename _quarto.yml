@@ -1,0 +1,16 @@
+project:
+  type: website
+
+format:
+  html:
+    theme: styles/custom.scss
+    code-fold: true
+    number-sections: false
+    toc: false
+
+resources:
+  - images/
+  - styles/
+
+website:
+  title: "Sikh Attire and the Five Ks"

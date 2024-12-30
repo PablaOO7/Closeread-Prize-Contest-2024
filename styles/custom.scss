@@ -1,0 +1,61 @@
+/*-- scss:defaults --*/
+$khalsa-blue: #0033a0;
+$yellow: #ffcc00;
+$orange: #ff8c00;
+$white: #ffffff;
+$cream: #FFFDD0;
+
+/*-- scss:rules --*/
+body {
+  font-family: sans-serif;
+  background-color: $white;
+  color: black;
+}
+
+/* Title specific styling */
+.custom-title {
+  text-align: center;
+  margin: 20px 0;
+  font-size: 3.5rem;
+  font-weight: bold;
+  text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.7);
+  color: $orange !important;
+}
+
+/* Override any potential conflicting styles */
+div.custom-title {
+  color: $orange !important;
+}
+
+/* Additional title specificity if needed */
+#quarto-content .custom-title {
+  color: $orange !important;
+}
+
+/* General heading styles */
+h1, h2, h3, h4, h5, h6 {
+  color: $orange !important;
+  font-weight: bold;
+}
+
+/* Sidebar styling */
+.cr-sidebar {
+  background-color: $yellow !important;
+  color: $khalsa-blue;
+}
+
+.narrative-sidebar {
+  background-color: $khalsa-blue;
+  color: $cream;
+}
+
+.narrative-background-color-sidebar {
+  background-color: $khalsa-blue;
+}
+
+/* Highlight panel */
+.highlight-panel {
+  background-color: $yellow;
+  border-left: 5px solid $orange;
+  padding: 20px;
+}

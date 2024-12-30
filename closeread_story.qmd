@@ -1,0 +1,143 @@
+---
+title: "Sikh Attire and the Five Ks"
+subtitle: "A Closeread project by [Jaspreet](https://pablaoo7.github.io/career-canvas/)"
+
+format:
+  closeread-html:
+    #remove-header-space: true
+    theme: styles/custom.scss
+    cr-style:
+      section-background-color: "#f9f9f2"  # Cream white for general section background
+      narrative-font-family: sans-serif
+      narrative-text-color-sidebar: "#ffffff"  # White for contrast on blue
+      narrative-background-color-sidebar: "#0033a0"  # Khalsa blue for the sidebar background
+      # Parameters for overlay-center layout
+      narrative-background-color-overlay: "rgba(0, 51, 160, 0.9)"  # Khalsa blue for background of overlay
+      narrative-text-color-overlay: "#FFFDD0"  # Cream text color for overlay
+      narrative-border-radius: "5px"  # Rounded corners for narrative blocks
+      narrative-overlay-max-width: "80%"  # Maximum width for overlay blocks
+      narrative-outer-margin: "10px"  # Margin around the overlay blocks
+      narrative-font-size: "1rem"  # Font size for narrative text
+---
+
+```{=html}
+
+
+<div class="custom-title">
+  The Importance of Sikh Attire
+</div>
+
+<br>
+Sikh attire, especially the **dastār** (turban), holds deep spiritual, cultural, and personal significance. For Sikhs, the **dastār** is not just a piece of clothing—it is a symbol of **equality**, **honour**, **self-respect**, **courage**, and **spirituality**. Wearing the turban signifies a commitment to the values that the Sikh faith upholds.
+
+The **Five Ks**—**Kesh**, **Kara**, **Kanga**, **Kachera**, and **Kirpan**—are essential to the identity of a Sikh. Each of these sacred symbols carries meaning and reminds Sikhs of their faith, responsibility, and service to humanity.
+
+---
+
+# The Dastār: A Symbol of Honour and Spirituality 🧕💫
+
+Among Sikhs, the **dastār** represents a deep commitment to their faith and values. It is a **visible marker of equality**, as all Sikhs, regardless of their socio-economic status, wear the turban. The **dastār** also signifies **self-respect**, **honour**, and **piety**—values central to Sikhism.
+
+For Sikhs who follow the **Khalsa** tradition, wearing the turban and maintaining long, **uncut hair** (**Kesh**) is an important practice. The turban helps to protect the hair and keep it clean, reminding Sikhs of their spiritual duty to uphold the teachings of the **Guru Granth Sahib**.
+
+---
+
+# Key Symbols in Sikh Identity
+
+The **Five Ks** serve as a reminder to Sikhs about their spiritual duties and role in society:
+
+- **Kesh (Uncut Hair)** 🌿 – Represents the natural state of the body as created by God.
+- **Kara (Iron Bracelet)** ⭕ – A symbol of eternity, reinforcing the idea of God's oneness.
+- **Kanga (Wooden Comb)** 🪶 – Keeps the hair clean, signifying purity.
+- **Kachera (Cotton Undergarments)** 🩳 – Symbolizes modesty and self-discipline.
+- **Kirpan (Sword)** ⚔️ – Represents the duty to protect the oppressed and uphold justice.
+
+---
+
+# Unique Identity of Sikhs: Faith, Honour, and Equality 🤝
+
+For Sikhs, these symbols are not just physical attributes; they form the core of their **spiritual** and **personal** identity. The **dastār** and the **Five Ks** are a daily reminder of their commitment to **equality**, **honour**, and **selfless service** to humanity.
+
+```{=html}
+<!-- Highlight the key points -->
+<div style="padding: 20px; background-color: rgba(255, 223, 102, 0.2); border-left: 5px solid #ffcc00;">
+  <p><strong>Faith, Honour, Equality</strong>: These values are not just symbols; they form the core of Sikh life, guiding them in every aspect of their day-to-day actions. The **Five Ks** and the **Dastār** keep Sikhs grounded in their mission of serving humanity and following the path of justice.</p>
+</div>
+
+<br>
+In this story, we explore the significance of the **dastār** and how the Five Ks come together to form a complete, unique identity for Sikhs.
+
+:::{.cr-section layout="sidebar-left"}
+# Kesh: The Sacred Uncut Hair
+
+The first of the **Five Ks** is **Kesh**—the uncut hair. For Sikhs, maintaining uncut hair is a way of living in harmony with nature, showing respect for the body as a gift from God. @cr-WS
+
+The turban is worn to keep the hair neatly in place and is a powerful symbol of a Sikh’s identity. It is also an expression of the **Sikh commitment** to spirituality and humility. @cr-WS
+
+::: {#cr-WS}
+![](images/Turban_p.png){width=100%}
+:::
+::::
+
+:::{.cr-section layout="sidebar-left"}
+# Kara: The Iron Bangle
+The **Kara**, a simple iron bangle, is the second of the Five Ks. It represents the eternal nature of God, as the circle has no beginning or end. It serves as a constant reminder for Sikhs to live according to God's will and uphold values such as equality, justice, and community service. @cr-kadaa
+
+Wearing the Kara is also a symbolic reminder to keep the hand clean and free from sin, guiding Sikhs in their actions and daily decisions. @cr-kadaa
+
+::: {#cr-kadaa}
+![](images/Kadaa.png)
+:::
+::::
+
+:::{.cr-section layout="sidebar-left"}
+# Kanga: The Wooden Comb
+
+The **Kanga**, a small wooden comb, is the third of the Five Ks. It symbolizes cleanliness, both physical and spiritual. It reminds Sikhs to maintain cleanliness and discipline in their lives. @cr-kanga
+
+The Kanga is kept in the hair, helping to keep it neat and free of tangles. It reflects the Sikh value of order and the belief that cleanliness is an important part of spiritual practice. @cr-kanga
+
+::: {#cr-kanga}
+![](images/Kanga.png)
+:::
+::::
+
+:::{.cr-section layout="sidebar-left"}
+# Kachera: The Cotton Underwear
+
+The **Kachera**, a specific style of cotton undergarment, is the fourth of the Five Ks. It is a symbol of modesty and self-control. Worn by Sikh men and women alike, it signifies the commitment to chastity, moral discipline, and simplicity in one's life. @cr-kachera
+
+The Kachera represents the idea of self-restraint, reminding Sikhs to uphold modesty in their actions and thoughts. @cr-kachera
+
+::: {#cr-kachera}
+![](images/Kachera.png)
+:::
+::::
+
+:::{.cr-section layout="sidebar-left"}
+# Kirpan: The Sword of Justice
+
+The final of the Five Ks is the **Kirpan**, a ceremonial sword. The Kirpan symbolizes the Sikh duty to defend the weak and protect justice. It represents courage and the commitment to stand up for righteousness in the face of adversity. @cr-sword
+
+The Kirpan is not a weapon for violence but a symbol of the Sikh's resolve to protect human dignity and promote peace. @cr-sword
+
+::: {#cr-sword}
+![](images/Sword.png)
+:::
+::::
+
+:::{.cr-section layout="sidebar-left"}
+# Appreciations
+@cr-thanks
+
+::: {#cr-thanks}
+![](images/Appreciations.png)
+:::
+:::::
+---
+
+<!-- Elegant Quarto text after the line -->
+<div style="font-family: 'Quarto', sans-serif; font-size: 1.5rem; color: #333; text-align: center; padding: 20px;">
+  <p><em>"With gratitude, we honor the wisdom of those who came before us and look forward to a future guided by knowledge and respect."</em></p>
+  <p style="font-style: italic;">— A Tribute to Sikh Heritage and Culture</p>
+</div>
